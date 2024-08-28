@@ -10,7 +10,7 @@ Olá! Eu sou o **Maurilio Mounie** / Hello! I'm **Maurilio Mounie** 🤘
 ### Me:
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
-
+<img hight="10" width="20" src="assets/cpp.png">
           
 
 <!---
