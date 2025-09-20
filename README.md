@@ -24,3 +24,11 @@ mounie = {
 
 for key, value in mounie.items():
     print(f"{key.capitalize()}: {value}")
+
+output:
+Name: Maurilio Mounie
+Age: 19
+Education: ['BSc in Computer Science (in progress)', 'Technical degree in Informatics (IFPI)']
+Summary: 
+        I'm a Computer Science undergraduate, with a technical background in Informatics.
+        Currently working with Python and building personal projects.
